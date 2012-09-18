@@ -1,4 +1,6 @@
 cocos2d-ccsprite-showboundingbox
 ================================
 
-Cocos2d CCsprite category adding method to show a sprites bounding box with a transparent overlay.
+This is a simple, but useful, category for use with Cocos2d which will add a transparent overlay to
+show you the bounding box of a sprite.
+
